@@ -1,0 +1,7 @@
+The display property in CSS is used to define how an element should be displayed.
+
+inline: Makes the element an inline element, meaning it will flow with the surrounding content.
+
+inline-block: Similar to inline, but allows setting width and height values.
+
+flex: Enables a flex container, allowing you to use the flexbox layout.

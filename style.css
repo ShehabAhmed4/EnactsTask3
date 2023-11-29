@@ -1,0 +1,26 @@
+
+.firstDiv {
+        display: inline-block;
+        border: 2px solid black;
+        background-color: #eee;
+        text-align: center;
+        padding: 10px;
+    }
+
+.firstDiv img { 
+        border-radius: 50%; 
+    }
+
+
+.secondDiv {
+        display: inline-block;
+        border: 2px solid black;
+        background-image: url('/images/avatar2.png');
+        background-size: cover;
+        width: 30px;
+        height: 30px;
+        border-radius: 50%;
+        margin: 15px;
+        padding: 5px;
+
+    }
